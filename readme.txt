@@ -3,3 +3,6 @@ Git is free software.1
 modify agin2
 Git has a mutable index called stage.
 Git tracks changes. of files
+
+i want to checkout agin
+My stupid boss still prefers SVN.
