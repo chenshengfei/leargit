@@ -10,3 +10,4 @@ My stupid boss still prefers SVN.
 creat a brach
 
 creat a branch test1
+Creating a new branch is quick & simple.
